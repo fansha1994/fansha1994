@@ -1,20 +1,14 @@
-![gif from nerdy.dev](https://cdn-images-1.medium.com/max/1000/0*nsgXxd0kwN3qT2ks.gif)
+![gif from nerdy.dev](https://i.pinimg.com/originals/32/a5/3f/32a53fd68a28c7b8df0d8ae0d1b1a13e.gif)
 
 
 ### Hi there 👋
 
-
-<!--
-**fansha1994/fansha1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Machine Learning
+- 🌱 I’m currently learning ... Machine Learning Algorithms  
+- 💬 Ask me about ... Data Science 
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/mahmoud-fansha/)
+- 😄 Pronouns: ... you can call me Moe
+- ⚡ Fun fact: ... Carrot cake is my Favorite cake 😄😄😄
 -->
