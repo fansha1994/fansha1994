@@ -1,4 +1,4 @@
-![gif from nerdy.dev](https://i.pinimg.com/originals/32/a5/3f/32a53fd68a28c7b8df0d8ae0d1b1a13e.gif)
+![gif from nerdy.dev](https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif)
 
 
 ### Hi there 👋
