@@ -1,4 +1,8 @@
+![gif from nerdy.dev](https://cdn-images-1.medium.com/max/1000/0*nsgXxd0kwN3qT2ks.gif)
+
+
 ### Hi there 👋
+
 
 <!--
 **fansha1994/fansha1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
