@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning ... Machine Learning Algorithms  
 - 💬 Ask me about ... Data Science 
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/mahmoud-fansha/)
-- 😄 Pronouns: ... you can call me Moe
+##- 😄 Pronouns: ... you can call me Moe
 - ⚡ Fun fact: ... Carrot cake is my Favorite cake 😄😄😄
 -->
