@@ -3,9 +3,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Machine Learning
-- 🌱 I’m currently learning ... Machine Learning Algorithms  
-- 💬 Ask me about ... Data Science 
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/mahmoud-fansha/)
-- ⚡ Fun fact: ... Carrot cake is my Favorite cake 😄😄😄
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Machine Learning Algorithms  
+- 💬 Ask me about Data Science 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-fansha/)
 -->
